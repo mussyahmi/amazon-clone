@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Amazon Clone
+An Amazon clone built using React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Author
+Mustafa Syahmi (mussyahmi)
+
+# Demo
+The app is deployed using Firebase at https://clone-cc356.web.app/
 
 ## Available Scripts
 
